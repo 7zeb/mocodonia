@@ -4,8 +4,8 @@ The Mocodonia Website and Wiki.
 Developed by 7Zeb
 
 Other Websites by 7Zeb:
-https://7zeb.github.io/website
-https://www.github.com/7zeb/website
+https://7zeb.github.io/
+https://www.github.com/7zeb/7zeb.github.io
 https://www.github.com/7zeb/website-beta
 https://sites.google.com/view/rutwik
 https://sites.google.com/view/7zeb
