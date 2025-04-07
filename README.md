@@ -2,6 +2,7 @@
 The Mocodonia Website and Wiki.
 
 Developed by 7Zeb
+Integrated with 7Zeb's official website!
 
 Other Websites by 7Zeb:
 https://7zeb.github.io/
