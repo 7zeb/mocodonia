@@ -1,5 +1,5 @@
 # Mocodonia
-The Mocodonia Website and Wiki.
+The Mocodonia Website.
 
 Developed by 7Zeb
 Integrated with 7Zeb's official website!
