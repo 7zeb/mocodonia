@@ -1,5 +1,6 @@
 # Mocodonia
-The Mocodonia Website.
+The Old Mocodonia Website.
+This github repo has been publicly archived.
 
 Developed by 7Zeb
 Integrated with 7Zeb's official website!
